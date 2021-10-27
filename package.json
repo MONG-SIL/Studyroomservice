@@ -9,7 +9,7 @@
     "studio":"npx prisma studio"
   },
   "repository": {
-    "type": "git",
+    "type": "git", 
     "url": "git+https://github.com/MONG-SIL/Studyroomservice.git"
   },
   "keywords": [],
